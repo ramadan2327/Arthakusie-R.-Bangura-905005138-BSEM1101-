@@ -47,8 +47,9 @@ The web page includes:
 2. Open the **index.html** file in any web browser
 
 
-Screenshots of the web page and GitHub repository are included in the assignment documentation.
+<img width="1920" height="1080" alt="webpage" src="https://github.com/user-attachments/assets/b0dc4369-dbae-4993-b588-fd2c4ce363d2" />
 
+<img width="1920" height="1080" alt="Repo" src="https://github.com/user-attachments/assets/f91568d7-69e2-4337-ab43-d133ebbce48f" />
 
 
 ## 📚 Conclusion
@@ -59,4 +60,4 @@ This project demonstrates the basic use of HTML and GitHub for web development. 
 
 ## © Author
 
-© Ramadan Bangura, BSEM, Semester 4, ID: 12345, 2026
+© Ramadan Bangura, BSEM, Semester 4, ID: 905005138, 2026
